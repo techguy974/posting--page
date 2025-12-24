@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto de certificação 2 – Postagem de blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <section class="post-section">
+      <h1>Feed de Postagens</h1>
+
+      <form id="post-form">
+        <div class="input-group">
+          <input type="text" id="tituloPost" placeholder="Título do post" maxlength="50" required>
+        </div>
+        <div class="input-group">
+          <textarea id="conteudoPost" placeholder="Escreva seu post..." maxlength="200" required></textarea>
+          <span id="charCount">0 / 200</span>
+        </div>
+        <button type="submit">Postar</button>
+      </form>
+
+      <div class="post-feed" id="post-feed">
+        <!-- Os posts são renderizados aqui -->
+      </div>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
